@@ -4,10 +4,11 @@ public class Main {
 
     public static void main(String[] args) {
         int option;
-        System.out.println("Welcome to my dumb application");
+        System.out.println("Welcome to yourrating  application");
         System.out.println("""
                 1.LOAD
                 2.SAVE
+               
                 """);
         Scanner input = new Scanner(System.in);
         option = input.nextInt();
